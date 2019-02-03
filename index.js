@@ -20,7 +20,7 @@ function sayHiToGrandma(words){
   } else if(words === whisper(words)){
     return "I can't hear you!";
   } else if(words === shout(words)){
-    return "YES INDEED";
+    return "YES INDEED!";
   } else {
     return "Grandma seems confused."
   }
